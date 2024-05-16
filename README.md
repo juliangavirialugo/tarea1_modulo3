@@ -2,4 +2,4 @@
 
 --aca vamos a revisar la tarea numero 1 del modulo 3
 
-## mo nombre es julian gaviria
+## mi nombre es julian gaviria
